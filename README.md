@@ -3,4 +3,4 @@
 This is the backend API for a simple blog application created using Node.js, Express.js, and MongoDB.
 
 # note
-rap all the folder inside src folder 
+wrap all the folder inside src folder 
